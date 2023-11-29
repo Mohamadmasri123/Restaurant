@@ -1,0 +1,44 @@
+h3{
+    color:  #ffffff;
+}
+.img3{
+height: 70px;
+width: 80px;
+border-radius: 50px;
+}
+.img2{
+width: 80px;
+border-radius: 50px;
+
+}
+.img1{
+    width: 130px;
+    text-align: center;
+    border-radius: 50px;
+
+}
+.Carousel{
+    background-color: brown;
+height: 350px;
+
+
+}
+.item{
+    padding: 30px;
+    width: 500px !important;
+    margin-left: 400px;
+ margin-top: 30px ;
+text-align: center;
+background-color: white;
+border-radius: 30px;
+margin-bottom: 30px;
+
+}
+/* 
+.carousel-item{
+    width: 50px  !important;
+} */
+.carousel-indicators{
+
+margin-top: 90px !important;
+}
